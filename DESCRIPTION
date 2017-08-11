@@ -9,3 +9,5 @@ Depends: R (>= 3.4.1)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/ijlyttle/tidyevallearnr
+BugReports: https://github.com/ijlyttle/tidyevallearnr/issues
